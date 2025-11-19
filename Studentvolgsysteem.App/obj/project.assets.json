@@ -2293,6 +2293,29 @@
             "related": ".aar;.pdb;.xml"
           }
         }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        }
       }
     },
     "net9.0-android35.0/android-arm64": {
@@ -4586,6 +4609,29 @@
           "lib/net8.0-android34.0/Xamarin.KotlinX.Serialization.Core.Jvm.dll": {
             "related": ".aar;.pdb;.xml"
           }
+        }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
         }
       }
     },
@@ -6881,6 +6927,29 @@
             "related": ".aar;.pdb;.xml"
           }
         }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        }
       }
     },
     "net9.0-android35.0/iossimulator-x64": {
@@ -9174,6 +9243,29 @@
           "lib/net8.0-android34.0/Xamarin.KotlinX.Serialization.Core.Jvm.dll": {
             "related": ".aar;.pdb;.xml"
           }
+        }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
         }
       }
     },
@@ -11469,6 +11561,29 @@
             "related": ".aar;.pdb;.xml"
           }
         }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        }
       }
     },
     "net9.0-android35.0/win10-x64": {
@@ -13763,6 +13878,29 @@
             "related": ".aar;.pdb;.xml"
           }
         }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        }
       }
     },
     "net9.0-ios26.0": {
@@ -14164,6 +14302,29 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
         }
       }
     },
@@ -14567,6 +14728,29 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        }
       }
     },
     "net9.0-ios26.0/android-x64": {
@@ -14968,6 +15152,29 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
         }
       }
     },
@@ -15371,6 +15578,29 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        }
       }
     },
     "net9.0-ios26.0/maccatalyst-x64": {
@@ -15772,6 +16002,29 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
         }
       }
     },
@@ -16175,6 +16428,29 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        }
       }
     },
     "net9.0-maccatalyst26.0": {
@@ -16576,6 +16852,29 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
         }
       }
     },
@@ -16979,6 +17278,29 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        }
       }
     },
     "net9.0-maccatalyst26.0/android-x64": {
@@ -17380,6 +17702,29 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
         }
       }
     },
@@ -17783,6 +18128,29 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        }
       }
     },
     "net9.0-maccatalyst26.0/maccatalyst-x64": {
@@ -18185,6 +18553,29 @@
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
         }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        }
       }
     },
     "net9.0-maccatalyst26.0/win10-x64": {
@@ -18586,6 +18977,29 @@
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
+        }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
         }
       }
     },
@@ -19239,6 +19653,29 @@
             "rid": "win-x86"
           }
         }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        }
       }
     },
     "net9.0-windows10.0.19041/android-arm64": {
@@ -19828,6 +20265,29 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
+        }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
         }
       }
     },
@@ -20419,6 +20879,29 @@
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        }
       }
     },
     "net9.0-windows10.0.19041/iossimulator-x64": {
@@ -21009,6 +21492,29 @@
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
         }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        }
       }
     },
     "net9.0-windows10.0.19041/maccatalyst-x64": {
@@ -21598,6 +22104,29 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
+        }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
         }
       }
     },
@@ -22198,6 +22727,29 @@
         "build": {
           "buildTransitive/Microsoft.WindowsAppSDK.props": {},
           "buildTransitive/Microsoft.WindowsAppSDK.targets": {}
+        }
+      },
+      "Studentvolgsysteem.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.dll": {}
+        }
+      },
+      "Studentvolgsysteem.Core.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "Studentvolgsysteem.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Studentvolgsysteem.Core.Data.dll": {}
         }
       }
     }
@@ -26110,27 +26662,45 @@
         "xamarin.kotlinx.serialization.core.jvm.1.7.3.4.nupkg.sha512",
         "xamarin.kotlinx.serialization.core.jvm.nuspec"
       ]
+    },
+    "Studentvolgsysteem.Core/1.0.0": {
+      "type": "project",
+      "path": "../Studentvolgsysteem.Core/Studentvolgsysteem.Core.csproj",
+      "msbuildProject": "../Studentvolgsysteem.Core/Studentvolgsysteem.Core.csproj"
+    },
+    "Studentvolgsysteem.Core.Data/1.0.0": {
+      "type": "project",
+      "path": "../Studentvolgsysteem.Core.Data/Studentvolgsysteem.Core.Data.csproj",
+      "msbuildProject": "../Studentvolgsysteem.Core.Data/Studentvolgsysteem.Core.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0-android35.0": [
       "Microsoft.Extensions.Logging.Debug >= 9.0.5",
       "Microsoft.Maui.Controls >= 9.0.111",
-      "Microsoft.NET.ILLink.Tasks >= 9.0.9"
+      "Microsoft.NET.ILLink.Tasks >= 9.0.9",
+      "Studentvolgsysteem.Core >= 1.0.0",
+      "Studentvolgsysteem.Core.Data >= 1.0.0"
     ],
     "net9.0-ios26.0": [
       "Microsoft.Extensions.Logging.Debug >= 9.0.5",
       "Microsoft.Maui.Controls >= 9.0.111",
-      "Microsoft.NET.ILLink.Tasks >= 9.0.9"
+      "Microsoft.NET.ILLink.Tasks >= 9.0.9",
+      "Studentvolgsysteem.Core >= 1.0.0",
+      "Studentvolgsysteem.Core.Data >= 1.0.0"
     ],
     "net9.0-maccatalyst26.0": [
       "Microsoft.Extensions.Logging.Debug >= 9.0.5",
       "Microsoft.Maui.Controls >= 9.0.111",
-      "Microsoft.NET.ILLink.Tasks >= 9.0.9"
+      "Microsoft.NET.ILLink.Tasks >= 9.0.9",
+      "Studentvolgsysteem.Core >= 1.0.0",
+      "Studentvolgsysteem.Core.Data >= 1.0.0"
     ],
     "net9.0-windows10.0.19041": [
       "Microsoft.Extensions.Logging.Debug >= 9.0.5",
-      "Microsoft.Maui.Controls >= 9.0.111"
+      "Microsoft.Maui.Controls >= 9.0.111",
+      "Studentvolgsysteem.Core >= 1.0.0",
+      "Studentvolgsysteem.Core.Data >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -26169,19 +26739,47 @@
       "frameworks": {
         "net9.0-android35.0": {
           "targetAlias": "net9.0-android",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jules\\RiderProjects\\s10\\Studentvolgsysteem\\Studentvolgsysteem.Core.Data\\Studentvolgsysteem.Core.Data.csproj": {
+              "projectPath": "C:\\Users\\jules\\RiderProjects\\s10\\Studentvolgsysteem\\Studentvolgsysteem.Core.Data\\Studentvolgsysteem.Core.Data.csproj"
+            },
+            "C:\\Users\\jules\\RiderProjects\\s10\\Studentvolgsysteem\\Studentvolgsysteem.Core\\Studentvolgsysteem.Core.csproj": {
+              "projectPath": "C:\\Users\\jules\\RiderProjects\\s10\\Studentvolgsysteem\\Studentvolgsysteem.Core\\Studentvolgsysteem.Core.csproj"
+            }
+          }
         },
         "net9.0-ios26.0": {
           "targetAlias": "net9.0-ios",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jules\\RiderProjects\\s10\\Studentvolgsysteem\\Studentvolgsysteem.Core.Data\\Studentvolgsysteem.Core.Data.csproj": {
+              "projectPath": "C:\\Users\\jules\\RiderProjects\\s10\\Studentvolgsysteem\\Studentvolgsysteem.Core.Data\\Studentvolgsysteem.Core.Data.csproj"
+            },
+            "C:\\Users\\jules\\RiderProjects\\s10\\Studentvolgsysteem\\Studentvolgsysteem.Core\\Studentvolgsysteem.Core.csproj": {
+              "projectPath": "C:\\Users\\jules\\RiderProjects\\s10\\Studentvolgsysteem\\Studentvolgsysteem.Core\\Studentvolgsysteem.Core.csproj"
+            }
+          }
         },
         "net9.0-maccatalyst26.0": {
           "targetAlias": "net9.0-maccatalyst",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jules\\RiderProjects\\s10\\Studentvolgsysteem\\Studentvolgsysteem.Core.Data\\Studentvolgsysteem.Core.Data.csproj": {
+              "projectPath": "C:\\Users\\jules\\RiderProjects\\s10\\Studentvolgsysteem\\Studentvolgsysteem.Core.Data\\Studentvolgsysteem.Core.Data.csproj"
+            },
+            "C:\\Users\\jules\\RiderProjects\\s10\\Studentvolgsysteem\\Studentvolgsysteem.Core\\Studentvolgsysteem.Core.csproj": {
+              "projectPath": "C:\\Users\\jules\\RiderProjects\\s10\\Studentvolgsysteem\\Studentvolgsysteem.Core\\Studentvolgsysteem.Core.csproj"
+            }
+          }
         },
         "net9.0-windows10.0.19041": {
           "targetAlias": "net9.0-windows10.0.19041.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jules\\RiderProjects\\s10\\Studentvolgsysteem\\Studentvolgsysteem.Core.Data\\Studentvolgsysteem.Core.Data.csproj": {
+              "projectPath": "C:\\Users\\jules\\RiderProjects\\s10\\Studentvolgsysteem\\Studentvolgsysteem.Core.Data\\Studentvolgsysteem.Core.Data.csproj"
+            },
+            "C:\\Users\\jules\\RiderProjects\\s10\\Studentvolgsysteem\\Studentvolgsysteem.Core\\Studentvolgsysteem.Core.csproj": {
+              "projectPath": "C:\\Users\\jules\\RiderProjects\\s10\\Studentvolgsysteem\\Studentvolgsysteem.Core\\Studentvolgsysteem.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

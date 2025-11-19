@@ -2,6 +2,12 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Studentvolgsysteem.App", "Studentvolgsysteem.App\Studentvolgsysteem.App.csproj", "{20E3F4AA-4778-489A-A72E-56D5526CCA1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Studentvolgsysteem.Core", "Studentvolgsysteem.Core\Studentvolgsysteem.Core.csproj", "{BD268B4E-2A72-4ADB-85A2-E6A5351D7084}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Studentvolgsysteem.Core.Data", "Studentvolgsysteem.Core.Data\Studentvolgsysteem.Core.Data.csproj", "{FEE61EEE-11FB-4024-83B5-E3C3AB21B4EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCore", "TestCore\TestCore.csproj", "{68696265-B178-4320-BB63-A4430AEBACFD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +30,42 @@ Global
 		{20E3F4AA-4778-489A-A72E-56D5526CCA1C}.Release|x64.Build.0 = Release|Any CPU
 		{20E3F4AA-4778-489A-A72E-56D5526CCA1C}.Release|x86.ActiveCfg = Release|Any CPU
 		{20E3F4AA-4778-489A-A72E-56D5526CCA1C}.Release|x86.Build.0 = Release|Any CPU
+		{BD268B4E-2A72-4ADB-85A2-E6A5351D7084}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD268B4E-2A72-4ADB-85A2-E6A5351D7084}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD268B4E-2A72-4ADB-85A2-E6A5351D7084}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BD268B4E-2A72-4ADB-85A2-E6A5351D7084}.Debug|x64.Build.0 = Debug|Any CPU
+		{BD268B4E-2A72-4ADB-85A2-E6A5351D7084}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BD268B4E-2A72-4ADB-85A2-E6A5351D7084}.Debug|x86.Build.0 = Debug|Any CPU
+		{BD268B4E-2A72-4ADB-85A2-E6A5351D7084}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD268B4E-2A72-4ADB-85A2-E6A5351D7084}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD268B4E-2A72-4ADB-85A2-E6A5351D7084}.Release|x64.ActiveCfg = Release|Any CPU
+		{BD268B4E-2A72-4ADB-85A2-E6A5351D7084}.Release|x64.Build.0 = Release|Any CPU
+		{BD268B4E-2A72-4ADB-85A2-E6A5351D7084}.Release|x86.ActiveCfg = Release|Any CPU
+		{BD268B4E-2A72-4ADB-85A2-E6A5351D7084}.Release|x86.Build.0 = Release|Any CPU
+		{FEE61EEE-11FB-4024-83B5-E3C3AB21B4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE61EEE-11FB-4024-83B5-E3C3AB21B4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE61EEE-11FB-4024-83B5-E3C3AB21B4EF}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FEE61EEE-11FB-4024-83B5-E3C3AB21B4EF}.Debug|x64.Build.0 = Debug|Any CPU
+		{FEE61EEE-11FB-4024-83B5-E3C3AB21B4EF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FEE61EEE-11FB-4024-83B5-E3C3AB21B4EF}.Debug|x86.Build.0 = Debug|Any CPU
+		{FEE61EEE-11FB-4024-83B5-E3C3AB21B4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE61EEE-11FB-4024-83B5-E3C3AB21B4EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE61EEE-11FB-4024-83B5-E3C3AB21B4EF}.Release|x64.ActiveCfg = Release|Any CPU
+		{FEE61EEE-11FB-4024-83B5-E3C3AB21B4EF}.Release|x64.Build.0 = Release|Any CPU
+		{FEE61EEE-11FB-4024-83B5-E3C3AB21B4EF}.Release|x86.ActiveCfg = Release|Any CPU
+		{FEE61EEE-11FB-4024-83B5-E3C3AB21B4EF}.Release|x86.Build.0 = Release|Any CPU
+		{68696265-B178-4320-BB63-A4430AEBACFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68696265-B178-4320-BB63-A4430AEBACFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68696265-B178-4320-BB63-A4430AEBACFD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{68696265-B178-4320-BB63-A4430AEBACFD}.Debug|x64.Build.0 = Debug|Any CPU
+		{68696265-B178-4320-BB63-A4430AEBACFD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{68696265-B178-4320-BB63-A4430AEBACFD}.Debug|x86.Build.0 = Debug|Any CPU
+		{68696265-B178-4320-BB63-A4430AEBACFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68696265-B178-4320-BB63-A4430AEBACFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68696265-B178-4320-BB63-A4430AEBACFD}.Release|x64.ActiveCfg = Release|Any CPU
+		{68696265-B178-4320-BB63-A4430AEBACFD}.Release|x64.Build.0 = Release|Any CPU
+		{68696265-B178-4320-BB63-A4430AEBACFD}.Release|x86.ActiveCfg = Release|Any CPU
+		{68696265-B178-4320-BB63-A4430AEBACFD}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -64,4 +64,14 @@
         <PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="9.0.5"/>
     </ItemGroup>
 
+    <ItemGroup>
+      <Folder Include="ViewModels\" />
+      <Folder Include="Views\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Studentvolgsysteem.Core.Data\Studentvolgsysteem.Core.Data.csproj" />
+      <ProjectReference Include="..\Studentvolgsysteem.Core\Studentvolgsysteem.Core.csproj" />
+    </ItemGroup>
+
 </Project>
