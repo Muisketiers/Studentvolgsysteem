@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\Studentvolgsysteem.Core.Data\Studentvolgsysteem.Core.Data.csproj" />
+      <ProjectReference Include="..\Studentvolgsysteem.Core\Studentvolgsysteem.Core.csproj" />
+    </ItemGroup>
+
+</Project>
